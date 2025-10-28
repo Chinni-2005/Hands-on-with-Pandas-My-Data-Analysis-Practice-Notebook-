@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🐼 Pandas Practice and Data Analysis  
 
 ## 📘 Overview  
@@ -96,6 +93,4 @@ plt.show()
 
 ---
 
-Would you like me to create a short **GitHub repo description + tags** (for your repo sidebar — under “About”)?  
-That helps recruiters instantly understand what your project is about.
 ```
